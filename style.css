@@ -24,3 +24,6 @@ li:hover{
     color: white;
     cursor: pointer;
 }
+input{
+    width: 90%;
+}
