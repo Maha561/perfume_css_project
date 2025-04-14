@@ -29,3 +29,15 @@ input{
     padding: 15px;
     margin-top: 50px;
 }
+.box{
+    padding: 20px;
+    border-color: black;
+    
+ 
+}
+img{
+    border-width: 200px;
+    border-top-style: solid;
+ 
+
+}
