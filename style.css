@@ -14,7 +14,7 @@ li,h1,ul{
     display: inline;
 }
 ul{
-    margin-left: 1000px;
+    margin-left: 100px;
 
 }
 li{
@@ -25,39 +25,24 @@ li:hover{
     cursor: pointer;
 }
 input{
-    width: 450%;
+    width: 60%;
     padding: 15px;
     margin-top: 50px;
   
 }
-.search{
-    padding-left: 300px;
-}
+
 .box{
     border-color: black;
-    border-width: 2px;
+    border-width: 4px;
     border-style: solid;
     width: 400px;
+    margin-left: 400px;
+    
+
+    
     
 
     
     
     
 }
-.search{
-    display: flex;
-    gap: 20px;
-
-
-}
-.card{
-    border-color: black;
-    border-width: 2px;
-    border-style:solid;
-    width: 400px;
-   
-    
-
-}
-
-    
