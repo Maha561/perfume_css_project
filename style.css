@@ -8,4 +8,19 @@
 nav{
     background-color: black;
     color: white;
+    padding: 30px;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 1000px;
+
+}
+li{
+    color: gray;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
 }
